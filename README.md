@@ -1,4 +1,4 @@
-
+eliminar archivo
 # Panel Comercial - Streamlit App
 
 Esta aplicación permite cargar y visualizar archivos Excel relacionados con promociones, compensaciones, vinilos, etc.
